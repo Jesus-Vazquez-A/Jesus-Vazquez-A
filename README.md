@@ -1,13 +1,16 @@
-- 👋 Hi, I’m @Jesus-Vazquez-A
-- 👀 I’m interested in  Data Science and AI
-- 📫 How to reach me Linkedin <- https://www.linkedin.com/in/amado-de-jes%C3%BAs-v%C3%A1zquez-acu%C3%B1a-0615a2213/
+## **About me**
+
+* College student Mexican 🇲🇽 21 years of Computer Science 💻.
+*  Self-taught student of Data Science 📈 and A.I 🤖.
+*  Blog content creator ✍️ 💻 on Data Science.
 
 
 
 
-## *Technical Skills.*
 
-### 🐍 Python 
+## **Technical Skills**
+
+### 🐍 **Python**
 
 
 * 📑Pandas
@@ -26,6 +29,10 @@
 
 <img src="https://media.giphy.com/media/BileRHL3JLUMtG4vH5/giphy.gif" width=350>
 
+### **Link Repository**
+
+https://github.com/Jesus-Vazquez-A/Insurence.git
+
 ### 💻 R studio 
 * 📑 Dpylr
 * 📊 GGplot2
@@ -40,6 +47,11 @@
 ### **Example of Work**
 
 <img src="https://media.giphy.com/media/dCRmnMyonKjZpngps0/giphy.gif" width=350>
+
+
+#### **Link Repository**
+
+https://github.com/Jesus-Vazquez-A/Casa-de-renta.git
 
 
 ### **Other Technologies**
