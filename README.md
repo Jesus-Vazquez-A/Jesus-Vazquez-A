@@ -67,6 +67,10 @@ https://github.com/Jesus-Vazquez-A/Casa-de-renta.git
 * 👨‍🎓 Autodidact
 * 📚 💻 Constantly Learn
 
+### **Blog**
+
+https://www.blogger.com/blog/posts/1870832576814608385?tab=rj
+
 <!---
 Jesus-Vazquez-A/Jesus-Vazquez-A is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
