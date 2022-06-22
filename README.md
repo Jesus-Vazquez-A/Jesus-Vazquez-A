@@ -7,13 +7,15 @@
 
 ### **Skils**
 
-* Python
+* :snake: Python
 * R studio
 * SQL
 * Pandas
 * Sckit-Learn
 * Jupyter Notebooks
 * GitHub
+* Streamlit
+* TensorFlow
 
 
 ### **Example of Work**
