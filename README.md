@@ -5,15 +5,18 @@
 
 
 
-### **Skils**
+## *Skils*
 
-* :snake: Python
-* :R: R studio
-* SQL
-* Pandas
+### 🐍 Python Skills
+
+
+* 📑Pandas
+* 📊Matplotlib
+* 📉 Seaborn 
+* 💻 Numpy 
 * 🤖 Sckit-Learn
+* 🌳:robot: XGBoost
 * 📓 Jupyter Notebooks
-* 💻 GitHub
 * 💻 Streamlit
 * 🧠TensorFlow
 
