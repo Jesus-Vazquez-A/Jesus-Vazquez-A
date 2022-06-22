@@ -8,14 +8,14 @@
 ### **Skils**
 
 * :snake: Python
-* R studio
+* :R: R studio
 * SQL
 * Pandas
-* Sckit-Learn
-* Jupyter Notebooks
-* GitHub
-* Streamlit
-* TensorFlow
+* 🤖 Sckit-Learn
+* 📓 Jupyter Notebooks
+* 💻 GitHub
+* 💻 Streamlit
+* 🧠TensorFlow
 
 
 ### **Example of Work**
