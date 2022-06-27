@@ -44,14 +44,7 @@ https://github.com/Jesus-Vazquez-A/Insurence.git
 * 💻 SqlDF
 * 💻 Tdiyquery
 
-### **Example of Work**
 
-<img src="https://media.giphy.com/media/dCRmnMyonKjZpngps0/giphy.gif" width=350>
-
-
-#### **Link Repository**
-
-https://github.com/Jesus-Vazquez-A/Casa-de-renta.git
 
 
 ### **Other Technologies**
