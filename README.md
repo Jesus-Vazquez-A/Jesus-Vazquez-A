@@ -1,8 +1,8 @@
 ## **About me**
 
-* College student Mexican  21 years of Computer Science 💻.
-*  Self-taught student of Data Science 📈 and A.I 🤖.
-*  Blog content creator ✍️ 💻 on Data Science.
+* College student Mexican  21 years of Computer Science 💻
+*  Self-taught student of Data Science and A.I 📈  🤖
+*  Blog content creator  on Data Science ✍️ 💻
 
 
 
