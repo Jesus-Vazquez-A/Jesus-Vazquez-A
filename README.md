@@ -64,7 +64,7 @@ https://github.com/Jesus-Vazquez-A/Insurence.git
 
 ### **Blog**
 
-https://www.blogger.com/blog/posts/1870832576814608385?tab=rj
+https://sites.google.com/view/www-aprendeconamado-com/p%C3%A1gina-principal
 
 <!---
 Jesus-Vazquez-A/Jesus-Vazquez-A is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
