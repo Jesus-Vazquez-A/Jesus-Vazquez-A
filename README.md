@@ -49,18 +49,18 @@ https://github.com/Jesus-Vazquez-A/Insurence.git
 
 <img src="https://media.giphy.com/media/E3nf3yBa7zFOgK2h2I/giphy.gif" width=350>
 
-### **Other Technologies**
+## **Databases**
 
 * 💻 GitHub
 * 💻 SQL
-* 📊 Google spreadsheets
+* 💻 SQLite
 
-### **Softmax Skills**
+## **Softmax Skills**
 
-* 🙂 Emotional Intelligence
-* 👨‍💼Teamwork
-* 👨‍🎓 Autodidact
-* 📚 💻 Constantly Learn
+* Emotional Intelligence 🙂 
+* Teamwork 👨‍ 💼
+* Autodidact 👨‍🎓 
+* Constantly Learn 📚 💻
 
 ### **Blog**
 
