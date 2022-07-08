@@ -43,6 +43,7 @@ https://github.com/Jesus-Vazquez-A/Insurence.git
 * 🤖 Tidymodels
 * 💻 SqlDF
 * 💻 Tdiyquery
+* Notebooks 📓
 
 ### **Example of Work**
 
@@ -51,9 +52,15 @@ https://github.com/Jesus-Vazquez-A/Insurence.git
 
 ## **Databases**
 
-* 💻 GitHub
+
 * 💻 SQL
 * 💻 SQLite
+
+## **Other Technologies**
+
+* GitHub  :octocat:
+* Markdown 📔
+* Google Spreadsheet  📊
 
 ## **Softmax Skills**
 
