@@ -1,7 +1,7 @@
 ## **About me**
 
 * College student Mexican  21 years of Computer Science 💻
-* Professional certificate in Google Data Analytics :plot:
+* Professional certificate in Google Data Analytics 📊 📉
 *  Self-taught student of Data Science and A.I 📈  🤖
 *  Blog content creator  on Data Science ✍️ 💻
 
