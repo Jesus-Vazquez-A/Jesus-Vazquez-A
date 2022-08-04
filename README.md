@@ -79,7 +79,7 @@ https://github.com/Jesus-Vazquez-A/Rent-Amount-Brazilian.git
 
 ### **Blog**
 
-https://sites.google.com/view/www-aprendeconamado-com/p%C3%A1gina-principal
+https://medium.com/@amadodejesusvazquezacuna
 
 <!---
 Jesus-Vazquez-A/Jesus-Vazquez-A is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
