@@ -7,14 +7,12 @@
 
 ## **About me**
 
-* 👨‍💻 All of my projects are available at [https://sites.google.com/view/ciencias-de-datos/proyects](https://sites.google.com/view/ciencias-de-datos/proyects)
-*📝 I regularly write articles on [https://medium.com/@amadodejesusvazquezacuna](https://medium.com/@amadodejesusvazquezacuna)
 * 💻 I regularly write articles  on  <A HREF="https://medium.com/@amadodejesusvazquezacuna">Medium</A>.
+* 📧 amadodejesusvazquez@gmail.com
 * 🖥️ 📊 I am learning PySpark and looking to better my Tableau skills.
 * ❔You can ask me about **Data Science**.
-* 📧 amadodejesusvazquez@gmail.com
 * 📓 <A HREF="https://sites.google.com/view/ciencias-de-datos/proyects">Portfolio</A>
-*
+
 
 
 <h3 align="left">Connect with me:</h3>
