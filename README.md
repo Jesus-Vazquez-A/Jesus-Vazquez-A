@@ -1,3 +1,8 @@
+<div id='center' alggn='center'>
+  <img src ='https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif' width="200"/>
+ </div>
+
+
 ## **About me**
 
 * College student Mexican  21 years of Computer Science 💻
