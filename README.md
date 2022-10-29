@@ -1,6 +1,6 @@
 <div id='center' align='center'>
   <img src ='https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif' width="300"/>
-  <h1 align='center'> I'm Amado </h1>
+  <h1 align='center'>Hello ✋ I'm Amado </h1>
  </div>
 
 
