@@ -1,7 +1,7 @@
 <div id='center' align='center'>
   <img src ='https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif' width="300"/>
   <h1 align='center'>Hello ✋ I'm Amado </h1>
-  <h3 align='center'>I am a data geek, I love solving data science problems, it gives me a lot of satisfaction after cleaning the data and seeing that it has a positive effect for the ML model. I am extremely competitive, since I like each of my skills to the best, I play to win instead of playing not to lose. My highest aspiration is to become a world-class Senior Data Scientist. I enjoy writing articles in Medium about data science and A.I, it gives me satisfaction to see that my articles help to better understand the content. </h3>
+  <h3 align='center'>I am a data geek, I love solving data science problems, it gives me a lot of satisfaction after cleaning the data and seeing that it has a positive effect for the ML model. I am extremely competitive, since I like each of my skills to the best, **I play to win instead of playing not to lose**. My highest aspiration is to become a **world-class Senior Data Scientist**.  </h3>
  </div>
 
 
