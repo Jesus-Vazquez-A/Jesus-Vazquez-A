@@ -7,7 +7,9 @@
 
 ## **About me**
 
-* 💻 I write in <A HREF="https://medium.com/@amadodejesusvazquezacuna">Medium</A>
+* 💻 I write in <A HREF="https://medium.com/@amadodejesusvazquezacuna">Medium</A>.
+* ❔You can ask me about **Data Science**.
+* 📧 amadodejesusvazquez@gmail.com
 
 
 
