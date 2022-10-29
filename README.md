@@ -61,7 +61,7 @@ Apply a **Linear Regression** algorithm, which helps to estimate the price of re
 Train the **Random Forest model**, to help users find out if the car to buy is recommended or not.
 
 
-
+<img src = "https://media.giphy.com/media/Xsi8TISeEbDd8cPDI2/giphy.gif">
 
 
 <!---
