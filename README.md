@@ -42,12 +42,6 @@
 
 
 
-## **Softmax Skills**
-
-* Emotional Intelligence 🙂 
-* Teamwork 👨‍ 💼
-* Autodidact 👨‍🎓 
-* Constantly Learn 📚 💻
 
 
 
