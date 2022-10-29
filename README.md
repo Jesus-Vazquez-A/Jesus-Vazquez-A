@@ -7,10 +7,10 @@
 
 ## **About me**
 
-* 💻 I blog about Data Science and ML at <A HREF="https://medium.com/@amadodejesusvazquezacuna">Medium</A>.
+* 💻 I regularly write articles  on  <A HREF="https://medium.com/@amadodejesusvazquezacuna">Medium</A>.
+* 🖥️ 📊 I am learning PySpark and looking to better my Tableau skills.
 * ❔You can ask me about **Data Science**.
 * 📧 amadodejesusvazquez@gmail.com
-* 🖥️ 📊 I am learning PySpark and looking to better my Tableau skills.
 * 📓 <A HREF="https://sites.google.com/view/ciencias-de-datos/proyects">Portfolio</A>
 
 
