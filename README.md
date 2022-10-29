@@ -11,7 +11,7 @@
 * ❔You can ask me about **Data Science**.
 * 📧 amadodejesusvazquez@gmail.com
 * 🖥️ 📊 I am learning PySpark and looking to better my Tableau skills.
-* <A HREF="https://sites.google.com/view/ciencias-de-datos/proyects">Portfolio</A>
+* 📓 <A HREF="https://sites.google.com/view/ciencias-de-datos/proyects">Portfolio</A>
 
 
 
