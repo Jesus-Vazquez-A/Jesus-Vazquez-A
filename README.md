@@ -14,8 +14,7 @@
 * 📓 <A HREF="https://sites.google.com/view/ciencias-de-datos/proyects">Portfolio</A>
 
 
-
-
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Amado-Vazquez-A)](https://git.io/streak-stats)
 
 ## **Technical Skills**
 
