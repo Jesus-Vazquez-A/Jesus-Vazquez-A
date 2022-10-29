@@ -34,7 +34,7 @@
 
 * 🚗 <A HREF="https://github.com/Jesus-Vazquez-A/Predict-Price-Vehicles.git">Predict Price Vehicules </A>
 
-Train an XGBoost model to predict the price of used cars in the UK.
+Train an **XGBoost** model to predict the price of used cars in the UK.
 
 
 
@@ -45,12 +45,14 @@ Train an XGBoost model to predict the price of used cars in the UK.
 
 
 
+* 🏡 <A HREF="https://github.com/Jesus-Vazquez-A/Rent-Amount-Brazilian.git">Rent Amount Brazilian</A>
+
+Apply a **Linear Regression** algorithm, which helps to estimate the price of rental houses in Brazil.
 
 
 <img src="https://media.giphy.com/media/E3nf3yBa7zFOgK2h2I/giphy.gif" width=400>
 
 
-<A HREF="https://github.com/Jesus-Vazquez-A/Rent-Amount-Brazilian.git">Repository</A>
 
 
 
