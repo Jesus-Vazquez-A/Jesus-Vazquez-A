@@ -41,7 +41,6 @@ Train an **XGBoost** model to predict the price of used cars in the UK.
 <img src = "https://media.giphy.com/media/Ol4Xhpm6DxlLD4BtKR/giphy.gif" width = 400>
 
 
-<A HREF="https://github.com/Jesus-Vazquez-A/Predict-Price-Vehicles.git">Repository</A>
 
 
 
