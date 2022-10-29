@@ -13,17 +13,7 @@
 * 🖥️ 📊 I am learning PySpark and looking to better my Tableau skills.
 * 📓 <A HREF="https://sites.google.com/view/ciencias-de-datos/proyects">Portfolio</A>
 
-<div align="left">
-  
-  <h3> Lenguages and Tools </h3>
-  <div>
-    
-     <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python"  width="40"/>&nbsp;
 
-    
-  </div>
-
-</div>
 
 ## **Technical Skills**
 
