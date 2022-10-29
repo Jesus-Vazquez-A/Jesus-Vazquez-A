@@ -7,7 +7,7 @@
 
 ## **About me**
 
-* <A HREF="https://medium.com/@amadodejesusvazquezacuna">Mediuim</A>
+* I write articles and published articles in <A HREF="https://medium.com/@amadodejesusvazquezacuna">Medium</A>
 * Professional certificate in Google Data Analytics 📊 📉
 *  Self-taught student of Data Science and A.I 📈  🤖
 *  Blog content creator  on Data Science ✍️ 💻
