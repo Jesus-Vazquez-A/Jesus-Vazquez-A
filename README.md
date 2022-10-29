@@ -55,6 +55,11 @@ Apply a **Linear Regression** algorithm, which helps to estimate the price of re
 
 
 
+* 👨‍💼 🚙 <A HREF="https://github.com/Jesus-Vazquez-A/Car-Evaluation-Proyect.git">Car Evaluation</A>
+
+
+Train the **Random Forest model**, to help users find out if the car to buy is recommended or not.
+
 
 
 
