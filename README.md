@@ -17,7 +17,6 @@
 
 
 
-
 ## **Technical Skills**
 
 ### 🐍 **Python**
@@ -58,7 +57,10 @@ https://github.com/Jesus-Vazquez-A/Insurence.git
 ### **Example of Work**
 
 
-<img src="https://media.giphy.com/media/E3nf3yBa7zFOgK2h2I/giphy.gif" width=350>
+<img src = "https://media.giphy.com/media/Ol4Xhpm6DxlLD4BtKR/giphy.gif" width = 400>
+
+
+<A HREF="https://github.com/Jesus-Vazquez-A/Predict-Price-Vehicles.git">Repository</A>
 
 
 
