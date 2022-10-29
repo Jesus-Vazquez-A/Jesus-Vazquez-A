@@ -1,6 +1,7 @@
 <div id='center' align='center'>
   <img src ='https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif' width="300"/>
   <h1 align='center'>Hello ✋ I'm Amado </h1>
+  <h3 align='center'>I am a data geek, I love solving data science problems, it gives me a lot of satisfaction after cleaning the data and seeing that it has a positive effect for the ML model. I am extremely competitive, since I like each of my skills to the best, I play to win instead of playing not to lose. I write articles about Data Science and A.I on my Medium blog. </h3>
  </div>
 
 
