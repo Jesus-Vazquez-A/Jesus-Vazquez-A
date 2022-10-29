@@ -17,13 +17,13 @@
   
   <h3> Lenguages and Tools </h3>
   <div>
-
-   
-   
     
- </div>
+     <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40"/>&nbsp;
 
+    
   </div>
+
+</div>
 
 ## **Technical Skills**
 
