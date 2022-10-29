@@ -36,11 +36,13 @@
 
 ### **Example of Work**
 
-<img src="https://media.giphy.com/media/BileRHL3JLUMtG4vH5/giphy.gif" width=350>
 
-### **Link Repository**
+<img src = "https://media.giphy.com/media/Ol4Xhpm6DxlLD4BtKR/giphy.gif" width = 400>
 
-https://github.com/Jesus-Vazquez-A/Insurence.git
+
+<A HREF="https://github.com/Jesus-Vazquez-A/Predict-Price-Vehicles.git">Repository</A>
+
+
 
 ### 💻 R studio 
 * 📑 Dpylr
@@ -57,16 +59,12 @@ https://github.com/Jesus-Vazquez-A/Insurence.git
 ### **Example of Work**
 
 
-<img src = "https://media.giphy.com/media/Ol4Xhpm6DxlLD4BtKR/giphy.gif" width = 400>
+<img src="https://media.giphy.com/media/E3nf3yBa7zFOgK2h2I/giphy.gif" width=400>
 
 
-<A HREF="https://github.com/Jesus-Vazquez-A/Predict-Price-Vehicles.git">Repository</A>
+<A HREF="https://github.com/Jesus-Vazquez-A/Rent-Amount-Brazilian.git">Repository</A>
 
 
-
-### **Link Repository**
-
-https://github.com/Jesus-Vazquez-A/Rent-Amount-Brazilian.git
 
 ## **Databases**
 
@@ -87,9 +85,7 @@ https://github.com/Jesus-Vazquez-A/Rent-Amount-Brazilian.git
 * Autodidact 👨‍🎓 
 * Constantly Learn 📚 💻
 
-### **Blog**
 
-https://medium.com/@amadodejesusvazquezacuna
 
 <!---
 Jesus-Vazquez-A/Jesus-Vazquez-A is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
