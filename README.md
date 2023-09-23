@@ -31,11 +31,15 @@
 
 ## **Some of my projects**
 
-* 🚗 <A HREF="https://github.com/Jesus-Vazquez-A/Criaglist.git">Predict Price Vehicules </A>
+* 🚗 <A HREF="https://github.com/Jesus-Vazquez-A/Criaglist.git"> Fair Price Generation through Neural Networks and Interactive Application </A>
 
-Development of a neural network model using **Pytorch** to generate fair prices for second-hand cars in the United States
+Development of a neural network model using **Pytorch** to generate fair prices for second-hand cars in the United States.
 
 
+* 🚗 <A HREF="https://github.com/Jesus-Vazquez-A/Car-Evaluation-Proyect.git"> Car purchase
+recommendation</A>
+
+Development of a qualifying model to guide users with the decision to purchase a car based on a series of variables.
 <!---
 Jesus-Vazquez-A/Jesus-Vazquez-A is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
