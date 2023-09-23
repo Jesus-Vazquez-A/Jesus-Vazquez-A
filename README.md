@@ -9,7 +9,6 @@
 
 * 💻 I regularly write articles  on  <A HREF="https://medium.com/@amadodejesusvazquezacuna">Medium</A>.
 * 📧 amadodejesusvazquez@gmail.com
-* 🖥️ 📊 I am learning PySpark and looking to better my Tableau skills.
 * ❔You can ask me about **Data Science**.
 * 📓 <A HREF="https://sites.google.com/view/ciencias-de-datos/proyects">Portfolio</A>
 
@@ -32,36 +31,9 @@
 
 ## **Some of my projects**
 
-* 🚗 <A HREF="https://github.com/Jesus-Vazquez-A/Predict-Price-Vehicles.git">Predict Price Vehicules </A>
+* 🚗 <A HREF="https://github.com/Jesus-Vazquez-A/Criaglist.git">Predict Price Vehicules </A>
 
-Train an **XGBoost** model to predict the price of used cars in the UK.
-
-
-
-<img src = "https://media.giphy.com/media/Ol4Xhpm6DxlLD4BtKR/giphy.gif" width = 400>
-
-
-
-
-
-* 🏡 <A HREF="https://github.com/Jesus-Vazquez-A/Rent-Amount-Brazilian.git">Rent Amount Brazilian</A>
-
-Apply a **Linear Regression** algorithm, which helps to estimate the price of rental houses in Brazil.
-
-
-<img src="https://media.giphy.com/media/E3nf3yBa7zFOgK2h2I/giphy.gif" width=400>
-
-
-
-
-
-* 👨‍💼 🚙 <A HREF="https://github.com/Jesus-Vazquez-A/Car-Evaluation-Proyect.git">Car Evaluation</A>
-
-
-Train the **Random Forest model**, to help users find out if the car to buy is recommended or not.
-
-
-<img src = "https://media.giphy.com/media/Xsi8TISeEbDd8cPDI2/giphy.gif">
+Development of a neural network model using **Pytorch** to generate fair prices for second-hand cars in the United States
 
 
 <!---
