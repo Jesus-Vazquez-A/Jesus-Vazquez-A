@@ -36,8 +36,8 @@
 Development of a neural network model using **Pytorch** to generate fair prices for second-hand cars in the United States.
 
 
-* 🚗 <A HREF="https://github.com/Jesus-Vazquez-A/Car-Evaluation-Proyect.git"> Car purchase
-recommendation</A>
+* 🚗 <A HREF="https://github.com/Jesus-Vazquez-A/Car-Evaluation-Proyect.git"> Car Purchase
+Recommendation</A>
 
 Development of a qualifying model to guide users with the decision to purchase a car based on a series of variables.
 <!---
